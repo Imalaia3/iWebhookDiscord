@@ -1,4 +1,4 @@
-# iWebhookDiscord
+# iWebhook
 
 
 <h>A Utility For Discord Webhooks</h>
